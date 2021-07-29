@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Zynk Software Support
+    url: https://support.zynk.com/
+    about: Product support.
+  - name: Zynk Software Documentation
+    url: https://docs.zynk.com/
+    about: Product documentation.
